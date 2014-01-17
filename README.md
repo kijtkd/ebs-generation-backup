@@ -17,9 +17,9 @@ Set EBS Volume Tag
 
 Backup     = ON
 
-Name       = [VolumeName] (optional)
+Name       = VolumeName -optional
 
-Generation = [GenerationNumber] (optional)
+Generation = GenerationNumber -optional
 
 3) RUN
 -------------------------------------
