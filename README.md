@@ -16,10 +16,12 @@ JSON needs to be enabled.
 Set EBS Volume Tag
 
 Backup     = ON
+
 Name       = [VolumeName] (optional)
+
 Generation = [GenerationNumber] (optional)
 
-2) RUN
+3) RUN
 -------------------------------------
 
 $php ebs-generation-backup.php
